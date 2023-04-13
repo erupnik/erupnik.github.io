@@ -20,6 +20,7 @@ layout: default
   }
 </style>
 
+<<<<<<< HEAD
 # News
 
 - Latest news item
