@@ -20,11 +20,43 @@ layout: default
   }
 </style>
 
-<<<<<<< HEAD
 # News
+
+
+
+<details>
+<summary>News</summary>
 
 - Latest news item
 - Another news item
+
+</details>
+
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
+<details>
+<summary>Preview</summary>
+
+{% highlight ruby %}
+puts 'Expanded message'
+{% endhighlight %}
+
+</details>
 
 
 # Research Projects
@@ -32,8 +64,8 @@ layout: default
 <table>
   <colgroup>
     <col span="1" style="width: 30%;">
-    <col span="1" style="width: 30%;">
     <col span="1" style="width: 40%;">
+    <col span="1" style="width: 30%;">
   </colgroup>
   <thead style="display: none;">
     <tr>
@@ -45,13 +77,13 @@ layout: default
   <tbody>
     <tr>
       <td><img src="/img/pba_toy_v3.png" alt="PBA pipeline" width="400" style="display: block; margin: 0 auto"></td>
-      <td><em>Pointless</em> Global Bundle Adjustment with Relative Motions Hessians </td>
+      <td><em>Pointless</em> Global Bundle Adjustment with Relative Motions Hessians, <br> <em>CVPR PCV Workshop</em> </td>
       <td><a href="https://arxiv.org/abs/2304.05118">Paper</a>  <a href="./pointlessGBA.html">Website</a> </td>
     </tr>
     <tr>
       <td><img src="/img/DeepSimNets.png" alt="DSMs" width="400" style="display: block; margin: 0 auto"></td>
-      <td><b>DeepSim-Nets</b> - Deep Similarity Networks for Stereo Image Matching </td>
-      <td><a href="project1_paper.pdf">Paper</a>  <a href="https://dalichebbi.github.io/DeepSimNets/">Website</a> </td>
+      <td><b>DeepSim-Nets</b> - Deep Similarity Networks for Stereo Image Matching <br> <em>CVPR EarthVision Workshop</em> </td>
+      <td><a href="https://arxiv.org/abs/2304.08056">Paper</a>  <a href="https://dalichebbi.github.io/DeepSimNets/">Website</a> </td>
     </tr> 
     <tr>
       <td><img src="/img/corona.png" alt="Corona imagery" width="400" style="display: block; margin: 0 auto"></td>
@@ -82,22 +114,24 @@ layout: default
 </table>
 
 # Talks
-bla bla 
 <table>
   <colgroup>
-    <col span="1" style="width: 50%;">
-    <col span="1" style="width: 50%;">
+    <col span="1" style="width: 10%;">
+    <col span="1" style="width: 45%;">
+    <col span="1" style="width: 45%;">
   </colgroup>
   <thead style="display: none;">
     <tr>
-      <th>Project</th>
-      <th>Figure</th>
+      <th>Year</th>
+      <th>Title</th>
+      <th>Website</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="/img/pba_toy_v3.png" alt="historical images and photogrammetry" width="200" style="display: block; margin: 0 auto"></td>
-      <td>Photogrammetry with historical images </td>
+      <td> <b>March 2023</b> </td>
+      <td> GRSS IADF <br> <em>Women in Geoscience and Remote Sensing</em></td>
+      <td>Photogrammetry with historical images <a href="https://www.grss-ieee.org/events/webinar/women-in-geoscience-and-remote-sensing-webinar-series-photogrammetry-in-earth-sciences/">[Website]</a> | <a href="https://drive.google.com/file/d/1Q3YczvluCGohX6BJz7TD6rAwrCxDGo1s/view?usp=share_link">[Slides]</a></td>
     </tr>
   </tbody>
 </table>
@@ -105,5 +139,47 @@ bla bla
 
 # Education 
 
-* Degree 1, Institution, Year
-* Degree 2, Institution, Year
+
+<table>
+  <colgroup>
+    <col span="1" style="width: 30%;">
+    <col span="1" style="width: 45%;">
+    <col span="1" style="width: 35%;">
+  </colgroup>
+  <thead style="display: none;">
+    <tr>
+      <th>Duration</th>
+      <th>Institution</th>
+      <th>Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>PhD in photogrammetry</b></td>
+
+      <td> Technische Universitaet Wien, Austria <br> <a href="https://photo.geo.tuwien.ac.at/">Photogrammetry Research Group</a></td>
+      <td> <b>2010 - 2013 </b> </td>
+
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td><b>Erasmus</b></td>
+
+      <td> Technische Universitaet Muenchen, Germany <br> <a href="https://www.pf.bgu.tum.de/">Dept. of Photogrammetry and Remote Sensing</a></td>
+      <td> <b>2009/2010</b> </td>
+
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td> <b>MSc Eng in photogrammetry</b> </td>
+
+      <td> AGH University of Science and Technology, Poland <br> <a href="https://geod.agh.edu.pl/index.php?option=com_content&view=article&id=778&Itemid=263&lang=en">Fac. of Geo-Data Science and Geodesy</a></td>
+      <td> <b>2005 - 2010 </b> </td>
+
+    </tr>
+  </tbody>
+
+</table>
+
