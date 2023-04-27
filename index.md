@@ -5,58 +5,6 @@
 layout: default
 ---
 
-<style>
-  body {
-    max-width: 800px;
-    margin: 0 auto;
-  }
-  table {
-    border-collapse: collapse;
-    border: none;
-  }
-  table td, table th {
-    border: none;
-    background-color: transparent;
-  }
-</style>
-
-# News
-
-
-
-<details>
-<summary>News</summary>
-
-- Latest news item
-- Another news item
-
-</details>
-
-<details>
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
-
-<details>
-<summary>Preview</summary>
-
-{% highlight ruby %}
-puts 'Expanded message'
-{% endhighlight %}
-
-</details>
 
 
 # Research Projects
@@ -113,7 +61,12 @@ puts 'Expanded message'
   </tbody> 
 </table>
 
-# Talks
+
+<div class="collapsible">
+  <h1>Selected talks</h1>
+  <button class="collapse-button">Show more</button>
+  <div class="content">
+
 <table>
   <colgroup>
     <col span="1" style="width: 10%;">
@@ -133,11 +86,91 @@ puts 'Expanded message'
       <td> GRSS IADF <br> <em>Women in Geoscience and Remote Sensing</em></td>
       <td>Photogrammetry with historical images <a href="https://www.grss-ieee.org/events/webinar/women-in-geoscience-and-remote-sensing-webinar-series-photogrammetry-in-earth-sciences/">[Website]</a> | <a href="https://drive.google.com/file/d/1Q3YczvluCGohX6BJz7TD6rAwrCxDGo1s/view?usp=share_link">[Slides]</a></td>
     </tr>
+    <tr>
+      <td> <b>June 2021</b> </td>
+      <td> ISPRS Lecture Day</td>
+      <td>High precision mapping with UAVs <a href="https://www.isprs2022-nice.com/index.php/isprs-geospatial-lecture-day/">[Website]</a> | <a href="https://drive.google.com/file/d/1Q3YczvluCGohX6BJz7TD6rAwrCxDGo1s/view?usp=share_link">[Slides]</a></td>
+    </tr>
+
   </tbody>
 </table>
 
+</div>
+</div>
 
-# Education 
+<br>
+
+<div class="collapsible">
+  <h1>Workshops </h1>
+  <button class="collapse-button">Show more</button>
+  <div class="content">
+
+  <table style="border-collapse: collapse;">
+  <colgroup>
+    <col span="1" style="width: 20%;">
+    <col span="1" style="width: 40%;">
+    <col span="1" style="width: 50%;">
+  </colgroup>
+  <thead style="display: none;">
+    <tr>
+      <th>Year</th>
+      <th>Title</th>
+      <th>Website</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+      <td> <b>June 2023</b> </td>
+      <td> CVPR Workshop </td>
+      <td> Photogrammetric Computer Vision <br> <a href="https://photogrammetric-cv-workshop.github.io/">[Website]</a> | [Proceedings] </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td> <b>June 2022</b> </td>
+      <td> ISPRS Congres Workshop </td>
+      <td>Multi-epoch historical image processing </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td> <b>June 2022</b> </td>
+      <td> ISPRS Congres Summer School </td>
+      <td> Photogrammetry & Laser Scanning processing </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td> <b>Sept 2018</b> </td>
+      <td> Summer School <br> AGH, Cracow, Poland </td>
+      <td> MicMac for UAV & Close Range & Satellite </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td> <b>May 2018</b> </td>
+      <td> Atelier au congrès RFIAP & CFPT <br> Marne-la-Vallée, France </td>
+      <td> MicMac for UAV & Close Range & Satellite </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td> <b>Feb 2018</b> </td>
+      <td> Summer School <br> Politecnico di Torino, Italy </td>
+      <td> MicMac for UAV & Close Range </td>
+    </tr>
+  </tbody>
+</table>
+
+  </div>
+</div>
+
+<br>
+
+<div class="collapsible">
+  <h1>Education</h1>
+  <button class="collapse-button">Show more</button>
+  <div class="content">
 
 
 <table>
@@ -182,4 +215,69 @@ puts 'Expanded message'
   </tbody>
 
 </table>
+</div>
+</div>
+
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var coll = document.getElementsByClassName('collapsible');
+    for (var i = 0; i < coll.length; i++) {
+      var button = coll[i].querySelector('.collapse-button');
+      button.addEventListener('click', function() {
+        var parent = this.closest('.collapsible');
+        parent.classList.toggle('active');
+        var content = parent.querySelector('.content');
+        if (content.style.display === 'block') {
+          content.style.display = 'none';
+          this.innerHTML = 'Show more';
+        } else {
+          content.style.display = 'block';
+          this.innerHTML = 'Hide';
+        }
+      });
+    }
+  });  
+</script>
+
+<style>
+
+body {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+table {
+    border-collapse: collapse;
+    border: none;
+  }
+table td, table th {
+    border: none;
+    background-color: transparent;
+}
+
+  
+  .collapsible h2 {
+    margin-top: 0;
+  }
+  
+  .collapsible .content {
+    display: none;
+  }
+  
+  .collapsible.active .content {
+    display: block;
+  }
+  
+  .collapse-button {
+    border: none;
+    background-color: #f1f1f1;
+    color: black;
+    padding: 8px 16px;
+    margin-left: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+</style>
 
