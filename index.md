@@ -21,8 +21,15 @@ layout: default
       <th>Figure</th>
       <th>Link to Paper</th>
     </tr>
-  </thead>
+  </thead> SparseSatNerf.md
+
   <tbody>
+    <tr>
+      <td><img src="/img/DDSNeRFWorkflow.jpg" alt="NeRF pipelines" width="400" style="display: block; margin: 0 auto"></td>
+      <td><b>SparseSat-NeRF</b>: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images <br> <em>Collaboration with Lulin Zhang</em> </td>
+      <td><a href="">Paper</a>  <a href="./SparseSatNerf.html">Website</a> </td>
+    </tr>
+
     <tr>
       <td><img src="/img/pba_toy_v3.png" alt="PBA pipeline" width="400" style="display: block; margin: 0 auto"></td>
       <td><em>Pointless</em> Global Bundle Adjustment with Relative Motions Hessians, <br> <em>CVPR PCV Workshop</em> </td>
