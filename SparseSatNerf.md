@@ -18,7 +18,7 @@ Digital surface model generation using traditional multi-view stereo matching (M
 <pre>@article{zhang2023ssnerf,
    author = {Lulin Zhang and Ewelina Rupnik},
    title = {SparseSat-NeRF: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images},
-<!--   journal = {CVPR Photogrammetric Computer Vision Workshop},-->
+   journal = {ISPRS Annals},
    year = {2023}
 }
 </pre>
