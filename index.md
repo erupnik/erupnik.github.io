@@ -12,7 +12,7 @@ layout: default
 <table>
   <colgroup>
     <col span="1" style="width: 30%;">
-    <col span="1" style="width: 40%;">
+    <col span="1" style="width: 50%;">
     <col span="1" style="width: 30%;">
   </colgroup>
   <thead style="display: none;">
@@ -21,23 +21,23 @@ layout: default
       <th>Figure</th>
       <th>Link to Paper</th>
     </tr>
-  </thead> SparseSatNerf.md
+  </thead> 
 
   <tbody>
     <tr>
       <td><img src="/img/DDSNeRFWorkflow.jpg" alt="NeRF pipelines" width="400" style="display: block; margin: 0 auto"></td>
-      <td><b>SparseSat-NeRF</b>: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images <br> <em>Collaboration with Lulin Zhang \& IPGP</em> </td>
+      <td><b>SparseSat-NeRF</b>: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images <br> <p style="font-size:13px; "><em>Collaboration with Lulin Zhang & IPGP</em></p> </td>
       <td><a href="">Paper</a>  <a href="./SparseSatNerf.html">Website</a> </td>
     </tr>
 
     <tr>
       <td><img src="/img/pba_toy_v3.png" alt="PBA pipeline" width="400" style="display: block; margin: 0 auto"></td>
-      <td><em>Pointless</em> Global Bundle Adjustment with Relative Motions Hessians, <br> <em>CVPR PCV Workshop</em> <br> <em>Collaboration with Marc Pierrot-Deseilligny</em> </td>
+      <td><em>Pointless</em> Global Bundle Adjustment with Relative Motions Hessians, <br> <em>CVPR PCV Workshop</em> <br> <p style="font-size:13px; "><em>Collaboration with Marc Pierrot-Deseilligny</em></p> </td>
       <td><a href="https://arxiv.org/abs/2304.05118">Paper</a>  <a href="./pointlessGBA.html">Website</a> </td>
     </tr>
     <tr>
       <td><img src="/img/DeepSimNets.png" alt="DSMs" width="400" style="display: block; margin: 0 auto"></td>
-      <td><b>DeepSim-Nets</b> - Deep Similarity Networks for Stereo Image Matching <br> <em>CVPR EarthVision Workshop</em> <br> <em>Collaboration with Mohamed-Ali Chebbi</em></td>
+      <td><b>DeepSim-Nets</b> - Deep Similarity Networks for Stereo Image Matching <br> <em>CVPR EarthVision Workshop</em> <br> <p style="font-size:13px; "><em>Collaboration with Mohamed-Ali Chebbi</em></p></td>
       <td><a href="https://arxiv.org/abs/2304.08056">Paper</a>  <a href="https://dalichebbi.github.io/DeepSimNets/">Website</a> </td>
     </tr> 
     <tr>
