@@ -13,6 +13,8 @@ Figure.  **Workflows of SS-NeRF (Ours)**, **Sat-NeRF and NeRF**. In our experime
 # Abstract
 Digital surface model generation using traditional multi-view stereo matching (MVS) performs poorly over non-Lambertian surfaces, with asynchronous acquisitions, or at discontinuities. Neural radiance fields (NeRF) offer a new paradigm for reconstructing surface geometries using continuous volumetric representation. NeRF is self-supervised, does not require ground truth geometry for training, and provides an elegant way to include in its representation physical parameters about the scene, thus potentially remedying the challenging scenarios where MVS fails. However, NeRF and its variants require many views to produce convincing scene's geometries which in earth observation satellite imaging is rare. In this paper we present SparseSat-NeRF (SS-NeRF) - an extension of Sat-NeRF adapted to sparse satellite views. SS-NeRF employs dense depth supervision guided by cross-correlation similarity metric provided by traditional semi-global MVS matching. We demonstrate the effectiveness of our approach on stereo and tri-stereo Pléiades 1B/WorldView-3 images, and compare against NeRF and Sat-NeRF.
 
+<h3>Code</h3>
+[<img src="/img/github-mark.png"  width="50">](https://github.com/LulinZhang/SpS-NeRF)
 
 <h3>BibTeX Citation</h3>
 <pre>@article{zhang2023ssnerf,

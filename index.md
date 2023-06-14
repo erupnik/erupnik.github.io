@@ -27,18 +27,18 @@ layout: default
     <tr>
       <td><img src="/img/DDSNeRFWorkflow.jpg" alt="NeRF pipelines" width="400" style="display: block; margin: 0 auto"></td>
       <td><b>SparseSat-NeRF</b>: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images <br> <p style="font-size:13px; "><em>Collaboration with Lulin Zhang & IPGP</em></p> </td>
-      <td><a href="">Paper</a>  <a href="./SparseSatNerf.html">Website</a> </td>
+      <td><a href="">Paper</a> <br> <a href="./SparseSatNerf.html">Website</a> <br> <a href="https://github.com/LulinZhang/SpS-NeRF">Code</a> </td>
     </tr>
 
     <tr>
       <td><img src="/img/pba_toy_v3.png" alt="PBA pipeline" width="400" style="display: block; margin: 0 auto"></td>
       <td><em>Pointless</em> Global Bundle Adjustment with Relative Motions Hessians, <br> <em>CVPR PCV Workshop</em> <br> <p style="font-size:13px; "><em>Collaboration with Marc Pierrot-Deseilligny</em></p> </td>
-      <td><a href="https://arxiv.org/abs/2304.05118">Paper</a>  <a href="./pointlessGBA.html">Website</a> </td>
+      <td><a href="https://arxiv.org/abs/2304.05118">Paper</a> <br>  <a href="./pointlessGBA.html">Website</a> <br> <a href="https://github.com/erupnik/pointlessGBA">Code</a> </td>
     </tr>
     <tr>
       <td><img src="/img/DeepSimNets.png" alt="DSMs" width="400" style="display: block; margin: 0 auto"></td>
       <td><b>DeepSim-Nets</b> - Deep Similarity Networks for Stereo Image Matching <br> <em>CVPR EarthVision Workshop</em> <br> <p style="font-size:13px; "><em>Collaboration with Mohamed-Ali Chebbi</em></p></td>
-      <td><a href="https://arxiv.org/abs/2304.08056">Paper</a>  <a href="https://dalichebbi.github.io/DeepSimNets/">Website</a> </td>
+      <td><a href="https://arxiv.org/abs/2304.08056">Paper</a> <br>  <a href="https://dalichebbi.github.io/DeepSimNets/">Website</a> <br> <a href="https://github.com/DaliCHEBBI/DeepSimNets">Code</a> </td>
     </tr> 
     <tr>
       <td><img src="/img/corona.png" alt="Corona imagery" width="400" style="display: block; margin: 0 auto"></td>
