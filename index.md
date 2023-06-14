@@ -33,7 +33,7 @@ layout: default
     <tr>
       <td><img src="/img/pba_toy_v3.png" alt="PBA pipeline" width="400" style="display: block; margin: 0 auto"></td>
       <td><em>Pointless</em> Global Bundle Adjustment with Relative Motions Hessians, <br> <em>CVPR PCV Workshop</em> <br> <p style="font-size:13px; "><em>Collaboration with Marc Pierrot-Deseilligny</em></p> </td>
-      <td><a href="https://arxiv.org/abs/2304.05118">Paper</a> <br>  <a href="./pointlessGBA.html">Website</a> <br> <a href="https://github.com/erupnik/pointlessGBA">Code</a> </td>
+      <td><a href="https://arxiv.org/abs/2304.05118">Paper</a> <br> <a href="/docs/cvpr23_poster_pba.pdf">Poster</a> <br> Talk <br>  <a href="./pointlessGBA.html">Website</a> <br> <a href="https://github.com/erupnik/pointlessGBA">Code</a> </td>
     </tr>
     <tr>
       <td><img src="/img/DeepSimNets.png" alt="DSMs" width="400" style="display: block; margin: 0 auto"></td>
