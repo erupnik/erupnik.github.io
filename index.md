@@ -26,8 +26,9 @@ layout: default
   <tbody>
     <tr>
       <td><img src="/img/DDSNeRFWorkflow.jpg" alt="NeRF pipelines" width="400" style="display: block; margin: 0 auto"></td>
-      <td><b>SparseSat-NeRF</b>: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images <br> <p style="font-size:13px; "><em>Collaboration with Lulin Zhang & IPGP</em></p> </td>
-      <td><a href="">Paper</a> <br> <a href="./SparseSatNerf.html">Website</a> <br> <a href="https://github.com/LulinZhang/SpS-NeRF">Code</a> </td>
+      <td> <img src="/img/diamond.png"  width="20"> <span style="color:orange"> <b>Best Paper Award</b>  </span>  <br> <b>SparseSat-NeRF</b>: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images. 
+ <br> <p style="font-size:13px; "><em>Collaboration with Lulin Zhang & IPGP</em></p> </td>
+      <td><a href="https://arxiv.org/abs/2309.00277">Paper</a> <br> <a href="./SparseSatNerf.html">Website</a> <br> <a href="https://github.com/LulinZhang/SpS-NeRF">Code</a> </td>
     </tr>
 
     <tr>
@@ -47,7 +48,7 @@ layout: default
     </tr>
     <tr>
       <td><img src="/img/tiephisto.jpg" alt="Multiepoch features" width="400" style="display: block; margin: 0 auto"></td>
-      <td>Feature Matching for Multi-Epoch Historical Aerial Images </td>
+      <td> <img src="/img/diamond.png"  width="20"> <span style="color:orange"> <b>2022 EuroSDR PhD Award</b> </span>  <br>Feature Matching for Multi-Epoch Historical Aerial Images </td>
       <td><a href="https://www.sciencedirect.com/science/article/pii/S0924271621002707">Paper</a>  <a href="https://www.umr-lastig.fr/ewelina-rupnik/historicalfeatures.html">Website</a> </td>
     </tr>
     <tr>
