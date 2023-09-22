@@ -90,6 +90,12 @@ layout: default
   </thead>
   <tbody>
     <tr>
+      <td> <b>September 2023</b> </td>
+      <td> GdR ISIS <br> <em>Calcul visuel de pose en robotique et réalité-X</em> <br> Sorbonne Université, Campus Université Pierre & Marie Curie</td>
+      <td>Pointless Global Bundle Adjustment <a href="https://www.gdr-isis.fr/index.php/reunion/502/">[Website]</a> | <a href="">[Slides]</a></td>
+    </tr>
+
+    <tr>
       <td> <b>March 2023</b> </td>
       <td> GRSS IADF <br> <em>Women in Geoscience and Remote Sensing</em></td>
       <td>Photogrammetry with historical images <a href="https://www.grss-ieee.org/events/webinar/women-in-geoscience-and-remote-sensing-webinar-series-photogrammetry-in-earth-sciences/">[Website]</a> | <a href="https://drive.google.com/file/d/1Q3YczvluCGohX6BJz7TD6rAwrCxDGo1s/view?usp=share_link">[Slides]</a></td>
