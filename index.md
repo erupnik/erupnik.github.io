@@ -135,21 +135,21 @@ layout: default
   <tbody>
    <tr>
       <td> <b>June 2023</b> </td>
-      <td> CVPR Workshop </td>
-      <td> Photogrammetric Computer Vision <br> <a href="https://photogrammetric-cv-workshop.github.io/">[Website]</a> | [Proceedings] </td>
+      <td> CVPR Workshop <br> Vancouver, Canada </td>
+      <td> Photogrammetric Computer Vision <br> <a href="https://photogrammetric-cv-workshop.github.io/">[Website]</a> | <a href="https://openaccess.thecvf.com/CVPR2023_workshops/PCV"> [Proceedings] </a> </td>
     </tr>
   </tbody>
   <tbody>
     <tr>
       <td> <b>June 2022</b> </td>
-      <td> ISPRS Congres Workshop </td>
+      <td> ISPRS Congres Workshop <br> Nice, France </td>
       <td>Multi-epoch historical image processing </td>
     </tr>
   </tbody>
   <tbody>
     <tr>
       <td> <b>June 2022</b> </td>
-      <td> ISPRS Congres Summer School </td>
+      <td> ISPRS Congres Summer School <br> Nice, France </td>
       <td> Photogrammetry & Laser Scanning processing </td>
     </tr>
   </tbody>
@@ -158,6 +158,13 @@ layout: default
       <td> <b>Sept 2018</b> </td>
       <td> Summer School <br> AGH, Cracow, Poland </td>
       <td> MicMac for UAV & Close Range & Satellite </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td> <b>Dec 2017</b> </td>
+      <td> Seminar <br> Université polytechnique d'Hô Chi Minh-Ville, Vietnam </td>
+      <td> Image Processing with MicMac </td>
     </tr>
   </tbody>
   <tbody>
@@ -178,6 +185,43 @@ layout: default
 
   </div>
 </div>
+
+
+<br>
+
+<div class="collapsible">
+  <h1>Teaching</h1>
+  <button class="collapse-button">Show more</button>
+  <div class="content">
+
+
+<table>
+  <colgroup>
+    <col span="1" style="width: 30%;">
+    <col span="1" style="width: 45%;">
+    <col span="1" style="width: 35%;">
+  </colgroup>
+  <thead style="display: none;">
+    <tr>
+      <th>Duration</th>
+      <th>Institution</th>
+      <th>Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>to be updated</b></td>
+
+      <td> Université Paris Cité & ENSG, ~30h/yr </td>
+      <td> <b>2015 - now </b> </td>
+
+    </tr>
+  </tbody>
+
+</table>
+</div>
+</div>
+
 
 <br>
 
