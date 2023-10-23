@@ -90,6 +90,12 @@ layout: default
   </thead>
   <tbody>
     <tr>
+      <td> <b>November 2023</b> </td>
+      <td> <em>Faculty of Geoinformation Science and Earth Observation</em>, University of Twente <br> Enschede, The Netherlands</td>
+      <td>Fast approaches to bundle adjustment </td>
+    </tr>
+
+    <tr>
       <td> <b>September 2023</b> </td>
       <td> GdR ISIS <br> <em>Calcul visuel de pose en robotique et réalité-X</em> <br> Sorbonne Université, Campus Université Pierre & Marie Curie</td>
       <td>Pointless Global Bundle Adjustment <a href="https://www.gdr-isis.fr/index.php/reunion/502/">[Website]</a> | <a href="">[Slides]</a></td>
