@@ -91,6 +91,12 @@ layout: default
   <tbody>
     <tr>
       <td> <b>November 2023</b> </td>
+      <td>  <em>L'imagerie Spatiale au Service du Patrimoine Culturel</em> <br> CNES, Paris</td>
+      <td> Logiciel 3D MicMac </td>
+    </tr>
+
+    <tr>
+      <td> <b>November 2023</b> </td>
       <td> <em>Faculty of Geoinformation Science and Earth Observation</em>, University of Twente <br> Enschede, The Netherlands</td>
       <td>Fast approaches to bundle adjustment </td>
     </tr>
