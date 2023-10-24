@@ -92,7 +92,7 @@ layout: default
     <tr>
       <td> <b>November 2023</b> </td>
       <td>  <em>L'imagerie Spatiale au Service du Patrimoine Culturel</em> <br> CNES, Paris</td>
-      <td> Logiciel 3D MicMac </td>
+      <td> Logiciel 3D MicMac <br> <a href="https://evenium.events/imagerie-spatiale-patrimoine-culturel">[Website]</a> </td>
     </tr>
 
     <tr>
