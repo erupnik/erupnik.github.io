@@ -132,7 +132,7 @@ layout: default
 <br>
 
 <div class="collapsible">
-  <h1>Workshops \& Summer Schools</h1>
+  <h1>Workshops, summer schools</h1>
   <button class="collapse-button">Show more</button>
   <div class="content">
 
