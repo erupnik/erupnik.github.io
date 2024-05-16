@@ -90,6 +90,11 @@ layout: default
   </thead>
   <tbody>
     <tr>
+      <td> <b>June 2024</b> </td>
+      <td>  <em>Canadian Symposium on Remote Sensing</em> <br> Halifax, Canada</td>
+      <td> Photogrammetry with historical images <br> <a href="https://crss-sct.ca/events/csrs2024halifax/keynote-speakers/">[Website]</a> </td>
+    </tr>
+    <tr>
       <td> <b>November 2023</b> </td>
       <td>  <em>L'imagerie Spatiale au Service du Patrimoine Culturel</em> <br> CNES, Paris</td>
       <td> Logiciel 3D MicMac <br> <a href="https://evenium.events/imagerie-spatiale-patrimoine-culturel">[Website]</a> </td>
@@ -127,7 +132,7 @@ layout: default
 <br>
 
 <div class="collapsible">
-  <h1>Workshops </h1>
+  <h1>Workshops \& Summer Schools</h1>
   <button class="collapse-button">Show more</button>
   <div class="content">
 
@@ -144,6 +149,13 @@ layout: default
       <th>Website</th>
     </tr>
   </thead>
+   <tbody>
+   <tr>
+      <td> <b>9-13 September 2024</b> </td>
+      <td> 4th Vietnam School of Earth Observation<br> Quy Nhon, Vietnam </td>
+      <td> Generation of digital elevation models using remote sensing data <br> <a href="https://www.ipgp.fr/~jacquemoud/VSEO4/">[Website]</a> </td>
+    </tr>
+  </tbody>
   <tbody>
    <tr>
       <td> <b>June 2023</b> </td>
