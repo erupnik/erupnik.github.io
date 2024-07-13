@@ -208,7 +208,7 @@ layout: default
     <tr>
       <td> <b>Mar 2017</b> </td>
       <td> Spring school <br> SUP'COM, Tunis, Tunisia </td>
-      <td> <a href=https://gallery.mailchimp.com/36df8b5f8ecc88e440c08c4d4/files/142a89d1-b5b5-4c17-acd4-88a06828a8ca/Prg_Formation_MICMAC_FINAL.01.pdf>Photogrammétrie avec MicMac</a></td>
+      <td> <a href="https://gallery.mailchimp.com/36df8b5f8ecc88e440c08c4d4/files/142a89d1-b5b5-4c17-acd4-88a06828a8ca/Prg_Formation_MICMAC_FINAL.01.pdf">Photogrammétrie avec MicMac</a></td>
     </tr>
   </tbody>
   </tbody>
