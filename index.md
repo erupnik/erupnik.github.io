@@ -51,8 +51,7 @@ layout: default
   </tbody> 
 </table>
 
-<div class="collapsible">
-  <h1>Selected talks</h1>
+<div class="collapsible"> 
   <button class="collapse-button">Show more</button>
   <div class="content">
 
