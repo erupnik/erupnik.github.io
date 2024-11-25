@@ -25,6 +25,13 @@ layout: default
 
   <tbody>
     <tr>
+      <td><img src="/img/brdf-teaser-new.jpg" alt="BRDF-NeRF" width="400" style="display: block; margin: 0 auto"></td>
+      <td> <b>bRDF-NeRF</b>: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling.
+ <br> <p style="font-size:13px; "><em>Collaboration with Lulin Zhang & IPGP</em></p> </td>
+      <td><a href="https://arxiv.org/abs/2409.12014">Paper</a> <br> <a href="https://github.com/LulinZhang/BRDF-NeRF">Code</a> </td>
+    </tr>
+
+    <tr>
       <td><img src="/img/DDSNeRFWorkflow.jpg" alt="NeRF pipelines" width="400" style="display: block; margin: 0 auto"></td>
       <td> <img src="/img/diamond.png"  width="20"> <a href="https://gsw2023.com/wp-content/uploads/2023/09/The%20Best.pdf"> <b>Best Paper Award</b> </a>   <br> <b>SparseSat-NeRF</b>: Dense Depth Supervised Neural Radiance Fields for Sparse Satellite Images. 
  <br> <p style="font-size:13px; "><em>Collaboration with Lulin Zhang & IPGP</em></p> </td>
@@ -89,6 +96,11 @@ layout: default
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td> <b>November 2024</b> </td>
+      <td>  <em>Symposiuum MDIS</em>: mesure de la déformation de la surface terrestre <br> Orléans, France</td>
+      <td> Historical images for applications in Earth Sciences <br> <a href="https://www.brgm.fr/fr/evenement/colloque/symposium-mdis-formaterre-2024">[Website]</a> </td>
+    </tr>
     <tr>
       <td> <b>June 2024</b> </td>
       <td>  <em>Canadian Symposium on Remote Sensing</em> <br> Halifax, Canada</td>
