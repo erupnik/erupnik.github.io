@@ -26,7 +26,7 @@ layout: default
   <tbody>
     <tr>
       <td><img src="/img/brdf-teaser-new.jpg" alt="BRDF-NeRF" width="400" style="display: block; margin: 0 auto"></td>
-      <td> <b>bRDF-NeRF</b>: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling.
+      <td> <b>BRDF-NeRF</b>: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling.
  <br> <p style="font-size:13px; "><em>Collaboration with Lulin Zhang & IPGP</em></p> </td>
       <td><a href="https://arxiv.org/abs/2409.12014">Paper</a> <br> <a href="https://github.com/LulinZhang/BRDF-NeRF">Code</a> </td>
     </tr>
