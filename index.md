@@ -48,6 +48,28 @@ layout: default
       <td><b>DeepSim-Nets</b> - Deep Similarity Networks for Stereo Image Matching <br> <em>CVPR EarthVision Workshop</em> <br> <p style="font-size:13px; "><em>Collaboration with Mohamed-Ali Chebbi</em></p></td>
       <td><a href="https://arxiv.org/abs/2304.08056">Paper</a> <br>  <a href="https://dalichebbi.github.io/DeepSimNets/">Website</a> <br> <a href="https://github.com/DaliCHEBBI/DeepSimNets">Code</a> </td>
     </tr> 
+  </tbody> 
+</table>
+
+<div class="collapsible">
+  <h1>Selected talks</h1>
+  <button class="collapse-button">Show more</button>
+  <div class="content">
+
+<table>
+  <colgroup>
+    <col span="1" style="width: 30%;">
+    <col span="1" style="width: 50%;">
+    <col span="1" style="width: 30%;">
+  </colgroup>
+  <thead style="display: none;">
+    <tr>
+      <th>Project</th>
+      <th>Figure</th>
+      <th>Link to Paper</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><img src="/img/corona.png" alt="Corona imagery" width="400" style="display: block; margin: 0 auto"></td>
       <td>Processing of Corona satellite imagery <em> Collaboration with <a href="https://scholar.google.com/citations?user=IRbTXOMAAAAJ&hl=en">Sajid Ghuffar</a></em> </td>
@@ -73,9 +95,14 @@ layout: default
       <td>Satellite Images Bundle Adjustment</td>
       <td><a href="https://isprs-annals.copernicus.org/articles/III-1/83/2016/">Paper</a>  </td>
     </tr>
-  </tbody> 
+
+  </tbody>
 </table>
 
+</div>
+</div>
+
+<br>
 
 <div class="collapsible">
   <h1>Selected talks</h1>
