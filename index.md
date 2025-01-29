@@ -104,7 +104,7 @@ layout: default
 <br>
 
 <div class="collapsible">
-  <h1>Selected talks</h1>
+  <h1>Selected invited talks</h1>
   <button class="collapse-button">Show more</button>
   <div class="content">
 
@@ -187,6 +187,14 @@ layout: default
       <th>Website</th>
     </tr>
   </thead>
+     <tbody>
+   <tr>
+      <td> <b>24 Jan 2025</b> </td>
+      <td> Institut des Géosciences de l'Environnement <br> Grenoble, France </td>
+      <td> 3D Reconstruction With Historical Images For Glaciology </td>
+    </tr>
+  </tbody>
+
    <tbody>
    <tr>
       <td> <b>9-13 September 2024</b> </td>
