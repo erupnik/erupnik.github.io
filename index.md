@@ -25,6 +25,12 @@ layout: default
 
   <tbody>
     <tr>
+      <td><img src="/img/mv-deepsimnet.png" alt="MV-DeepSimNets" width="400" style="display: block; margin: 0 auto"></td>
+      <td> <b>MV-DeepSimNets</b>: Multi-view dense image matching with similarity learning and geometry priors.
+ <br> <p style="font-size:13px; "><em>Collaboratiin with Mohamed-Ali Chebbi</em></p> </td>
+      <td><a href="https://arxiv.org/pdf/2505.11264">Paper</a> <br> <a href="">Code</a> </td>
+    </tr>
+    <tr>
       <td><img src="/img/brdf-teaser-new.jpg" alt="BRDF-NeRF" width="400" style="display: block; margin: 0 auto"></td>
       <td> <b>BRDF-NeRF</b>: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling.
  <br> <p style="font-size:13px; "><em>Collaboration with Lulin Zhang & IPGP</em></p> </td>
