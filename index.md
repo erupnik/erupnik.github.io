@@ -329,6 +329,16 @@ layout: default
   </thead>
   <tbody>
     <tr>
+      <td><b>Habilitation (HDR) en sciences de l'information géographique</b></td>
+    
+      <td> Université Gustave Eiffel <br> <a href="https://erupnik.github.io/HDR.html">Defense</a></td>
+      <td> <b> 26 June 2025 </b> </td>
+
+    </tr>
+  </tbody>
+
+  <tbody>
+    <tr>
       <td><b>PhD in photogrammetry</b></td>
 
       <td> Technische Universitaet Wien, Austria <br> <a href="https://photo.geo.tuwien.ac.at/">Photogrammetry Research Group</a></td>
