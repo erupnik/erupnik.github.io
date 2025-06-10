@@ -3,7 +3,7 @@
 <h1 style="text-align: center;"> <b>Habilitation à Diriger des Recherches</b> </h1>
 
 
-# Habilitation title
+# Title
 <b>Photogrammetric Computer Vision: Methods for Challenging Camera and Scene Geometries </b>
 
 # When and where
@@ -15,7 +15,10 @@ June 26, 2025, at 14:00 in the auditorium of Bibliothèque Georges Perec of Univ
 
 | 10h30 - 10h50 | Emmanuel Clédat, LASTIG, UGE-ENSG <br><em> Title TBA </em> <br><details> TBA </details> |
 | 10h50 - 11h10 | Mehdi Daakir, LASTIG, UGE-ENSG <br><em> (Linear) Mapping with GNSS-Aided Stereo-Vision </em> <br><details> TBA </details> |
-| 11h10-12h10 | <img src="/img/diamond.png"  width="20"> [**Valérie Renaudin**](https://pagespro.univ-gustave-eiffel.fr/valerie-renaudin), *DR, UGE, Directrice du laboratoire AME-GEOLOC* <br><em>Title TBA</em> <br><details>TBA</details> |
+| 11h10 - 12h10 | <img src="/img/diamond.png"  width="20"> [**Valérie Renaudin**](https://pagespro.univ-gustave-eiffel.fr/valerie-renaudin), *DR, UGE, Directrice du laboratoire AME-GEOLOC* <br><em>Title TBA</em> <br><details>TBA</details> |
+| 12h10 - 14h00 | <span style="color:orange"> <b>Lunch</b> </span> |
+| 14h | <img src="/img/grad.png"  width="20"> Ewelina Rupnik, habilitation defense: <b>Photogrammetric Computer Vision: Methods for Challenging Camera and Scene Geometries</b> <br><details>  ddddd </details>  |
+| 16h30 - 20h | Post-defense celebrations at *Salon d'honneur* accessible from the auditorium |
 
 # Habilitation abstract 
 bla

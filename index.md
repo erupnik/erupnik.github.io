@@ -329,8 +329,9 @@ layout: default
   </thead>
   <tbody>
     <tr>
-      <td><b>Habilitation (HDR) en sciences de l'information géographique</b></td>
+      <td><b>Habilitation</b></td>
     
+      <td> <b>Spécialité:</b> Sciences et Technologies de l'Information Géographique </td>
       <td> Université Gustave Eiffel <br> <a href="https://erupnik.github.io/HDR.html">Defense</a></td>
       <td> <b> 26 June 2025 </b> </td>
 
