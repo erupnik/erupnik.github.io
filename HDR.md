@@ -4,7 +4,7 @@
 
 
 # When and where
-June 26, 2025, at 14:00 in the auditorium of Bibliothèque Georges Perec of Université Gustave Eiffel.
+June 26, 2025, at 14:00 in the auditorium of Bibliothèque Georges Perec of Université Gustave Eiffel (see the map below).
 
 # Seminar & habilitation schedule
 
