@@ -20,9 +20,9 @@ June 26, 2025, at 14:00 in the auditorium of Bibliothèque Georges Perec of Univ
 | Raphael ANTOINE | DR, CEREMA (ENDSUM) | Reviewer |
 | Marie-Odile BERGER | DR, INRIA Nancy (TANGRAM) | Reviewer |
 | Gabriele FACCIOLO | Professeur, ENS Paris-Saclay (Centre Borelli) | Reviewer |
-| Livio de Luca | DR, CNRS (MAP) | Examiner |
+| Livio de LUCA | DR, CNRS (MAP) | Examiner |
 | Valérie RENAUDIN | DR, Univ. Gustave Eiffel (GEOLOC) | Examiner |
-| Denis Feurer | CR, IRD (LISAH) | Examiner |
+| Denis FEURER | CR, IRD (LISAH) | Examiner |
 
 
 
