@@ -27,7 +27,6 @@ June 26, 2025, at 14:00 in the auditorium of Bibliothèque Georges Perec of Univ
 
 
 # Accessing the venue
-Bibliothèque Georges Perec de l'Université Gustave Eiffel
 <span style="color:orange"> <b>Enter the building from avenue Blaise Pascal</b> </span>
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1431.8052874623168!2d2.590771663398484!3d48.840236967898186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sfr!2sfr!4v1749734842848!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
