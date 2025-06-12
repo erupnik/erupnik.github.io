@@ -342,7 +342,7 @@ layout: default
       <td><b>PhD in photogrammetry</b></td>
 
       <td> Technische Universitaet Wien, Austria <br> <a href="https://photo.geo.tuwien.ac.at/">Photogrammetry Research Group</a></td>
-      <td> <b>2010 - 2013 </b> </td>
+      <td> <b>2010 - 2013 </b> <br> Defense 9/2015 </td>
 
     </tr>
   </tbody>
