@@ -30,9 +30,7 @@ June 26, 2025, at 14:00 in the auditorium of Bibliothèque Georges Perec of Univ
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d695.5259685473127!2d2.5904168175195754!3d48.83997412328259!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e60e32b2d25945%3A0x63adb2dd33d18234!2sBiblioth%C3%A8que%20Georges%20Perec%20de%20l&#39;Universit%C3%A9%20Gustave%20Eiffel!5e0!3m2!1sfr!2sfr!4v1749571121176!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Bibliotheque
-<img src="/img/bibliotheque_gperec.jpg"  width="150">
 
+<img src="/img/bibliotheque_gperec.jpg"  width="350"> <img src="/img/salles.jpg"  width="350">
+Bibliotheque, auditorium and post-defense room.
 
-## Auditorium and pot 
-<img src="/img/salles.jpg"  width="150">
