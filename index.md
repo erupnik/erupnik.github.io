@@ -309,6 +309,52 @@ layout: default
 <br>
 
 <div class="collapsible">
+  <h1>Roles</h1>
+  <button class="collapse-button">Show more</button>
+  <div class="content">
+
+
+<table>
+  <colgroup>
+    <col span="1" style="width: 30%;">
+    <col span="1" style="width: 45%;">
+    <col span="1" style="width: 35%;">
+  </colgroup>
+  <thead style="display: none;">
+    <tr>
+      <th>Duration</th>
+      <th>Institution</th>
+      <th>Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Editor-in-chief</b></td>
+    
+      <td> French Journal of Photogrammetry \& Remote Sensing, <a href=https://rfpt.sfpt.fr/>RFPT</a></td>
+      <td> <b>2021-2025 </b> </td>
+
+    </tr>
+  </tbody>
+
+  <tbody>
+    <tr>
+      <td><b>Reviewer</b></td>
+
+      <td> IJPRS, ISPRS, RFPT, CVPR (Outstanding Reviewer CVPR'25), ECCV, ICCV </td>
+      <td> </td>
+
+    </tr>
+  </tbody>
+
+  
+</table>
+</div>
+</div>
+
+<br>
+
+<div class="collapsible">
   <h1>Education</h1>
   <button class="collapse-button">Show more</button>
   <div class="content">
@@ -331,7 +377,7 @@ layout: default
     <tr>
       <td><b>Habilitation</b></td>
     
-      <td> Université Gustave Eiffel <br> <a href="https://erupnik.github.io/HDR.html">Defense</a></td>
+      <td> Université Gustave Eiffel <br> <a href="https://theses.hal.science/tel-05141724v1">Manuscript</a> | <a href="https://erupnik.github.io/HDR.html">Defense</a> </td>
       <td> <b> 26 June 2025 </b> </td>
 
     </tr>
