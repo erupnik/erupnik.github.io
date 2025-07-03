@@ -344,16 +344,16 @@ layout: default
   </tbody>
   <tbody>
     <tr>
-      <td><b>Co-chair of Working Group on Image Orientation and Fusion</b></td>
-      <td> International Society of Photogrammetry and Remote Sensing, <a href="https://www2.isprs.org/commissions/comm2/wg1/">ISPRS</a></td>
+      <td><b>ISPRS WG Co-chair</b></td>
+      <td> Working Group on Image Orientation and Fusion <a href="https://www2.isprs.org/commissions/comm2/wg1/">ISPRS</a></td>
       <td> <b>2022-2026 </b> </td>
 
    </tr>
   </tbody>
   <tbody>
     <tr>
-      <td><b>Mamber of ISPRS International Science Advisory Committee</b></td>
-      <td> <a href="https://www.isprs.org/structure/isac.aspx">ISAC</a></td>
+      <td><b>Science Advisory Member</b></td>
+      <td> ISPRS International Committee <a href="https://www.isprs.org/structure/isac.aspx">ISAC</a></td>
       <td> <b>2024-2026 </b> </td>
    </tr>
   </tbody>
