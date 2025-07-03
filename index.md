@@ -331,19 +331,39 @@ layout: default
     <tr>
       <td><b>Editor-in-chief</b></td>
     
-      <td> French Journal of Photogrammetry \& Remote Sensing, <a href=https://rfpt.sfpt.fr/>RFPT</a></td>
+      <td> French Journal of Photogrammetry & Remote Sensing, <a href="https://rfpt.sfpt.fr/">RFPT</a></td>
       <td> <b>2021-2025 </b> </td>
-
     </tr>
   </tbody>
+  <tbody>
+  <tr>
+      <td><b>Advisory Board Member</b></td>
+      <td> International Journal of Photogrammetry and Remote Sensing, <a href="https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing/about/editorial-board">IJPRS</a></td>
+      <td> <b>2024-present </b> </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td><b>Co-chair of Working Group on Image Orientation and Fusion</b></td>
+      <td> International Society of Photogrammetry and Remote Sensing, <a href="https://www2.isprs.org/commissions/comm2/wg1/">ISPRS</a></td>
+      <td> <b>2022-2026 </b> </td>
+
+   </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td><b>Mamber of ISPRS International Science Advisory Committee</b></td>
+      <td> <a href="https://www.isprs.org/structure/isac.aspx">ISAC</a></td>
+      <td> <b>2024-2026 </b> </td>
+   </tr>
+  </tbody>
+
 
   <tbody>
     <tr>
       <td><b>Reviewer</b></td>
-
       <td> IJPRS, ISPRS, RFPT, CVPR (Outstanding Reviewer CVPR'25), ECCV, ICCV </td>
       <td> </td>
-
     </tr>
   </tbody>
 
